@@ -1,0 +1,46 @@
+header {
+    text-align: center;
+    padding: 10px 0px;
+    background:linear-gradient(to right, rgb(0, 132, 255), midnightblue);
+    color: mintcream;
+}
+
+.w-100 {
+    margin: 8px 0px;
+}
+
+.btn {
+    border-radius: 5px !important;
+}
+
+.current-city {
+    border: 1px solid black;
+    width: 800px;
+    margin: 15px 5px;
+    padding: 20px;
+}
+
+section div {
+    background-color: rgb(48, 34, 85);
+    color: white;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.low {
+    background-color: chartreuse;
+    padding: 0px 3px;
+    border-radius: 3px;
+}
+
+.moderate {
+    background-color: yellow;
+    padding: 0px 3px;
+    border-radius: 3px;
+}
+
+.high {
+    background-color: red;
+    padding: 0px 3px;
+    border-radius: 3px;
+}
