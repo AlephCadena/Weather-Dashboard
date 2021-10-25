@@ -2,7 +2,7 @@ header {
     text-align: center;
     padding: 10px 0px;
     background:linear-gradient(to right, rgb(0, 132, 255), midnightblue);
-    color: mintcream;
+    color: white;
 }
 
 .w-100 {
@@ -28,7 +28,7 @@ section div {
 }
 
 .low {
-    background-color: chartreuse;
+    background-color: lightgreen;
     padding: 0px 3px;
     border-radius: 3px;
 }
